@@ -137,4 +137,10 @@ Based on the six machine learning models we have applied to our credit datasets,
   
   
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+In the credit risk analyst, we uses six machine learning models to analyze the credit dataset. And based on the results, we evaluate our models by three criteria: balanced accuracy score, confusion matrix and classification report. 
+
+According to the result, Easy Ensemble AdaBoost model has the highest balanced accuracy score of **92.55%**. Besides, comparing to Oversampling, Undersampling and Combination Over&Undersampling models, Easy Ensemble AdaBoost model has the highest precision rate **7%** to detect high risk. In addition, comparing the recall for high risk, Easy Ensemble AdaBoost also has the highest rate of **91%**.In short, we will recommand to use Easy Ensemble AdaBoost model to predict credit risk.  
+
+
+
+
