@@ -9,7 +9,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 #### Oversampling 
 - Naive Random Oversampling
    - Balance Accuracy Score
-  <img src='Resources/Images/bas_ros.PNG' width=500 height=45 >
+  <img src='Resources/Images/bas_ros_.PNG' width=500 height=45 >
 - SMOTE Oversampling
    - Balance Accuracy Score
   <img src='Resources/Images/bas_SMOTE.PNG' width=500 height=45 >
