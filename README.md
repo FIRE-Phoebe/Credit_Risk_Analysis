@@ -14,8 +14,8 @@ Based on the six machine learning models we have applied to our credit datasets,
  
   <img src='Resources/Images/bas_ros_.PNG' width=400 height=30 >
 - Confusion Matrix:
-   - In our analysis, a total *5,445* loans were predicted to have high risk. Only *52* loans actual have high risk. The precision is **0.01**.
-   - According to our result, there are total *87* loans actually have high risk, and *52* of them were predicted to have high risk. The recall is **0.60**.
+   - A total *5,445* loans were predicted to have high risk. Only *52* loans actual have high risk. The precision is **0.01**.
+   - There are total *87* loans actually have high risk, and *52* of them were predicted to have high risk. The recall is **0.60**.
    <p align=center>
       <img src='Resources/Images/cm_ros.PNG' width=300 height=120>
     </p>    
@@ -77,8 +77,8 @@ Based on the six machine learning models we have applied to our credit datasets,
   <img src='Resources/Images/bas_combination.PNG' width=500 height=35 >
 
 - Confusion Matrix:
-   - In our analysis, a total *7,352* loans were predicted to have high risk. Only *61* loans actual have high risk. The precision is **0.01**.
-   - According to analysis result, there are total *87* loans actually have high risk, and *61* of them were predicted have high risk. The recall is **0.70**.
+   - A total *7,352* loans were predicted to have high risk. Only *61* loans actual have high risk. The precision is **0.01**.
+   - There are total *87* loans actually have high risk, and *61* of them were predicted have high risk. The recall is **0.70**.
    <p align=center>
       <img src='Resources/Images/cm_combination.PNG' width=300 height=120>
     </p>    
@@ -137,7 +137,7 @@ Based on the six machine learning models we have applied to our credit datasets,
   
   
 ## Summary
-In the credit risk analyst, we uses six machine learning models to analyze the credit dataset. And based on the results, we evaluate our models by three criteria: balanced accuracy score, confusion matrix and classification report. 
+In the credit risk analyst, we use six machine learning models to analyze the credit dataset. And based on our results, we evaluate our models by three criteria: balanced accuracy score, confusion matrix and classification report. 
 
 According to the result, Easy Ensemble AdaBoost model has the highest balanced accuracy score of **92.55%**. Besides, comparing to Oversampling, Undersampling and Combination Over&Undersampling models, Easy Ensemble AdaBoost model has the highest precision rate **7%** to detect high risk. In addition, comparing the recall for high risk, Easy Ensemble AdaBoost also has the highest rate of **91%**.In short, we will recommand to use Easy Ensemble AdaBoost model to predict credit risk.  
 
