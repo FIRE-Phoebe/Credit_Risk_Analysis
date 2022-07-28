@@ -15,7 +15,7 @@ Based on the six machine learning models we have applied to our credit datasets,
   <img src='Resources/Images/bas_ros_.PNG' width=400 height=30 >
 - Confusion Matrix:
    - In our analysis, a total *5,445* loans were predicted to have high risk. Only *52* loans actual have high risk. The precision is **0.01**.
-   - According to analysis result, there are total *87* loans actually have high risk, and *52* of them were predicted have high risk. The recall is **0.60**.
+   - According to our result, there are total *87* loans actually have high risk, and *52* of them were predicted to have high risk. The recall is **0.60**.
    <p align=center>
       <img src='Resources/Images/cm_ros.PNG' width=300 height=120>
     </p>    
