@@ -141,6 +141,8 @@ In the credit risk analyst, we use six machine learning models to analyze the cr
 
 According to the result, Easy Ensemble AdaBoost model has the highest balanced accuracy score of **92.55%**. Besides, comparing to Oversampling, Undersampling and Combination Over&Undersampling models, Easy Ensemble AdaBoost model has the highest precision rate **7%** to detect high risk. In addition, comparing the recall for high risk, Easy Ensemble AdaBoost also has the highest rate of **91%**.In short, we will recommand to use Easy Ensemble AdaBoost model to predict credit risk.  
 
+## Additional Resources
+Insights: https://docs.google.com/presentation/d/1PiOFNltpCXdOubtzEERu0FetcLEp9m7af-VrHSMcUqc/edit?usp=sharing
 _________________________________________________________________________________________________________________________________________________________
 - Project contributor: Phoebe J. Miao
 - Email: phoebem2021data@gmail.com
